@@ -7,7 +7,7 @@ Reference: Silal SP, Shretta R, Celhay O, Maude RJ, Mercado CEG, Saralamba S, Wh
 
 All files are subject to the MIT license with the exception of the following: 
 1. Extended Cost Data Table.docx
-2. Estimated Burden of Malaria.xlsx
+2. Pf_Pv_burdenestimates_00-14.xlsx
 3. Supplementary file1.pdf
 
 which are subject to a CC0 1.0 Universal license. 
